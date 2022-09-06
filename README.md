@@ -9,3 +9,4 @@ Uses memory buffers as seen in:
 https://github.com/ikwzm/udmabuf
 (Remember to load the pump as in the examples and have 8 pumps setup: respectively "udmabuf0, udmabuf1, ... "
 
+Do mind that most of these are pretty hacky in code and were made just to quickly see how to structure some of these functions ... *do not expect clean code*
